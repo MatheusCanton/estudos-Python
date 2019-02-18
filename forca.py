@@ -118,17 +118,16 @@ def carrega_palavra_secreta():
   
 
     arquivo = open("palavras.txt", "r")
-     '''
-    crie um arquivo de texto para salvar suas palavras.
-    1) arquivo = open("palavras.txt", "w")
-    2) coloco palavras dentro do seu arquivo.txt
-    arquivo.write("banana \n")
-    arquivo.write("melancia \n")
-    arquivo.write("morango \n")
-    arquivo.write("manga\n")
-    3) feche o arquivo.txt 
-    arquivo.close()    
-    '''
+     
+    #crie um arquivo de texto para salvar suas palavras.
+    #1) arquivo = open("palavras.txt", "w")
+    #2) coloco palavras dentro do seu arquivo.txt
+    #arquivo.write("banana \n")
+    #arquivo.write("melancia \n")
+    #arquivo.write("morango \n")
+    #arquivo.write("manga\n")
+    #3) feche o arquivo.txt 
+    #arquivo.close()
     palavras = []
 
     for linha in arquivo:
