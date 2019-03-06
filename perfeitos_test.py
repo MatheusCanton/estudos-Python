@@ -1,5 +1,7 @@
+
 # Arquivo de testes para as funções do arquivo perfeito.py
 
+#assert serve para verificar se é verdadeiro ou não
 import perfeitos as pf
 
 def test_div_2():
