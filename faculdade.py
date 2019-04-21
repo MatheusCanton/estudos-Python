@@ -1,5 +1,3 @@
-__alunos__ = ['matheus.canton@aluno.faculdadeimpacta.com.br',
-              'igor.pereira@aluno.faculdadeimpacta.com.br']
 
 
 class Disciplina:
